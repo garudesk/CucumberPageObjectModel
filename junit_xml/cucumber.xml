@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Free crm application test" name="Validate the login page test" time="0">
+<skipped><![CDATA[Given Validate Title of Login Page..........................................undefined
+When User Enters UserName and Password......................................undefined
+Then User click Submit Button...............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
